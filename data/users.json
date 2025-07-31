@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "rashidcoder",
+    "password": "Abdurashid20100308",
+    "role": "boss"
+  },
+  {
+    "id": 2,
+    "username": "super_admin",
+    "password": "adminsup123",
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "username" : "admin",
+    "password": "adminpass",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "username": "developer",
+    "password": "developerpass",
+    "role": "developer"
+  },
+  {
+    "id": 5,
+    "username": "simple_user",
+    "password": "simplepass",
+    "role": "simpleuser"
+  }
+]
